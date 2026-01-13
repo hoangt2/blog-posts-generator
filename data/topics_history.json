@@ -1,0 +1,137 @@
+{
+  "used_topics": [
+    "Marjaretki: Berry Picking in Finland - A Beginner's Guide",
+    "Mitä suomalaiset syövät aamupalaksi? (What do Finns eat for breakfast?)",
+    "Terveisiä Suomesta! How to Write a Postcard from Finland",
+    "Torilla Tavataan! Learning Finnish at the Market",
+    "Kesällä mökille! A Beginner's Guide to Finnish Summer Cottages",
+    "Vappu: Celebrating Finnish Labour Day!",
+    "Bussilla Helsinkiin: Beginner's Guide to Using Public Transport in Helsinki"
+  ],
+  "topic_details": {
+    "Marjaretki: Berry Picking in Finland - A Beginner's Guide": {
+      "date": "2026-01-14",
+      "category": "Finnish Culture and Traditions",
+      "metadata": {
+        "title": "Marjaretki: Berry Picking in Finland - A Beginner's Guide",
+        "level": "A1-A2",
+        "tags": [
+          "[Marjaretki",
+          "Berry Picking",
+          "Finnish Culture",
+          "Visit Finland",
+          "Finnish Traditions",
+          "Nature",
+          "Finland]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:08:22.780703"
+    },
+    "Mitä suomalaiset syövät aamupalaksi? (What do Finns eat for breakfast?)": {
+      "date": "2026-01-15",
+      "category": "Finnish Food and Dining",
+      "metadata": {
+        "title": "Mitä suomalaiset syövät aamupalaksi? Finnish Breakfast Guide",
+        "level": "A1-A2",
+        "tags": [
+          "[Finnish breakfast",
+          "Finnish culture",
+          "Visit Finland",
+          "Finnish food",
+          "Finnish language",
+          "Travel to Finland]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:08:35.799411"
+    },
+    "Terveisiä Suomesta! How to Write a Postcard from Finland": {
+      "date": "2026-01-16",
+      "category": "Finnish Culture and Traditions",
+      "metadata": {
+        "title": "Terveisiä Suomesta! Postcard Greetings from Finland",
+        "level": "A1-A2",
+        "tags": [
+          "[Terveisiä Suomesta",
+          "Finnish Culture",
+          "Postcards",
+          "Finnish Language",
+          "Travel to Finland",
+          "Greetings",
+          "Visit Finland]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:08:44.704525"
+    },
+    "Torilla Tavataan! Learning Finnish at the Market": {
+      "date": "2026-01-17",
+      "category": "Finnish Lifestyle and Society",
+      "metadata": {
+        "title": "Torilla Tavataan! Learning Finnish at the Market",
+        "level": "A1-A2",
+        "tags": [
+          "[Finnish Culture",
+          "Finnish Language",
+          "Torilla Tavataan",
+          "Finnish Market",
+          "Learn Finnish",
+          "Finland Travel",
+          "Finnish Lifestyle]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:14:44.012162"
+    },
+    "Kesällä mökille! A Beginner's Guide to Finnish Summer Cottages": {
+      "date": "2026-01-18",
+      "category": "Finnish Lifestyle and Society",
+      "metadata": {
+        "title": "Kesällä mökille! Your Guide to Finnish Summer Cottages",
+        "level": "A1-A2",
+        "tags": [
+          "[mökki",
+          "Finnish Culture",
+          "summer cottage",
+          "Visit Finland",
+          "Finnish lifestyle",
+          "travel",
+          "language learning]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:14:54.632847"
+    },
+    "Vappu: Celebrating Finnish Labour Day!": {
+      "date": "2026-01-19",
+      "category": "Finnish Culture and Traditions",
+      "metadata": {
+        "title": "Vappu: Celebrating Finnish Labour Day! A Cultural Fiesta",
+        "level": "A1-A2",
+        "tags": [
+          "[Vappu",
+          "Finnish Culture",
+          "Labour Day",
+          "Finland",
+          "Finnish Traditions",
+          "May Day]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:15:05.854659"
+    },
+    "Bussilla Helsinkiin: Beginner's Guide to Using Public Transport in Helsinki": {
+      "date": "2026-01-20",
+      "category": "Travel and Tourism in Finland",
+      "metadata": {
+        "title": "Bussilla Helsinkiin: Your Public Transport Guide",
+        "level": "A1-A2",
+        "tags": [
+          "[Helsinki",
+          "Public Transport",
+          "Finland",
+          "Travel",
+          "Finnish Culture",
+          "Visit Finland",
+          "Bussilla Helsinkiin]"
+        ]
+      },
+      "recorded_at": "2026-01-13T21:15:15.543387"
+    }
+  }
+}
